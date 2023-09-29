@@ -1,6 +1,9 @@
 ## Contacts Project
 
 This project demonstrates basic CRUD functionality with a Contacts resource. The following are the methods available on this resource:
+## How to Get Up and Running
+- Connect to a database with a "Contacts" table
+- Run `php artisan serve` and visit the address provided
 
 ### API Endpoints
 | HTTP Verbs | Endpoints | Action |
